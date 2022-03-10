@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32210.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workbench", "Workbench\Workbench.csproj", "{6A4616D8-26ED-421B-95C6-FB46E281A272}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculus", "Calculus\Calculus.csproj", "{328A5EC0-C90A-4C76-AB9E-96312BBDF3AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{08987042-4266-4D79-B60C-DFCE7BFC8CC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A4616D8-26ED-421B-95C6-FB46E281A272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4616D8-26ED-421B-95C6-FB46E281A272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4616D8-26ED-421B-95C6-FB46E281A272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4616D8-26ED-421B-95C6-FB46E281A272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{328A5EC0-C90A-4C76-AB9E-96312BBDF3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328A5EC0-C90A-4C76-AB9E-96312BBDF3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328A5EC0-C90A-4C76-AB9E-96312BBDF3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328A5EC0-C90A-4C76-AB9E-96312BBDF3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08987042-4266-4D79-B60C-DFCE7BFC8CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08987042-4266-4D79-B60C-DFCE7BFC8CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08987042-4266-4D79-B60C-DFCE7BFC8CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08987042-4266-4D79-B60C-DFCE7BFC8CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA7EEEB2-75EF-4BBC-9EDE-A94D1A8421FE}
+	EndGlobalSection
+EndGlobal
